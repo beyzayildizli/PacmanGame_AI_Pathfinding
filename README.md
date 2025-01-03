@@ -9,7 +9,7 @@ The Pacman AI Pathfinding project is designed to use Artificial Intelligence (AI
 Here's a glimpse of the game:
 ![image](https://github.com/user-attachments/assets/1de439e5-060e-4b35-995d-266bd544a8f6)
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/66a3e4b4-b815-4c3d-811b-d5fd3344c422" alt="d1" width="49%">
+  <img src="https://github.com/user-attachments/assets/b77f43db-113e-464a-bf69-5cf1ff3238cb" alt="d1" width="49%">
   <img src="https://github.com/user-attachments/assets/66a3e4b4-b815-4c3d-811b-d5fd3344c422" alt="d2" width="49%">
 </div>
 <div style="display: flex; justify-content: center;">
