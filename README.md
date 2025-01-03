@@ -2,6 +2,9 @@
 
 The Pacman AI Pathfinding project is designed to use Artificial Intelligence (AI) to find the shortest path in a 2D Pacman game, evaluate user performance, and manage various game mechanics. The project includes features like multiple levels, score tracking, and sound management.
 
+> The game offers a unique twist on the classic Pacman game. Instead of controlling Pacman, players take on the role of a ghost, aiming to eat all Pacmen on the map. The goal is to find and follow the shortest path to capture all Pacmen, providing a fresh and challenging gameplay experience. The shorter the path you find, the higher your score.
+
+
 
 ## Features
 
@@ -10,7 +13,7 @@ The Pacman AI Pathfinding project is designed to use Artificial Intelligence (AI
 - Maps are defined as 2D string arrays with the following symbols:  
   - `1`: Walls  
   - ` ` (Space): Walkable paths  
-  - `0`: Collectible items  
+  - `0`: Collectible items (pac-mans)
   - `X`: Player (ghost)  
 - New levels can be easily added by editing the map definitions in this script.
 
