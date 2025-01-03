@@ -7,11 +7,11 @@ The Pacman AI Pathfinding project is designed to use Artificial Intelligence (AI
 ## Screenshots
 
 Here's a glimpse of the game:
-![picture1](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/8a18c0ce-83b4-459a-9e8e-47b6d2afac19)
-![picture2](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/be9bba6b-353d-4ae0-811a-4e58af4295f0)
-![picture3](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/b32d3f7b-6c1c-4e8f-9563-77542b765192)
-![picture4](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/d79f6e19-1bd0-4d87-9c00-9a415a4d327e)
-
+![image](https://github.com/user-attachments/assets/1de439e5-060e-4b35-995d-266bd544a8f6)
+![image](https://github.com/user-attachments/assets/224b8f5c-8bf5-4da8-aabf-715350f1b33f)
+![image](https://github.com/user-attachments/assets/66a3e4b4-b815-4c3d-811b-d5fd3344c422)
+![image](https://github.com/user-attachments/assets/0ce3eb48-d873-4a07-85d8-95d6680e40ba)
+![image](https://github.com/user-attachments/assets/7b0a97e4-9afa-4183-9f47-03379c80b70d)
 
 ## Features
 
