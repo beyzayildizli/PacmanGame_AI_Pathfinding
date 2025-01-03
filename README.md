@@ -8,10 +8,14 @@ The Pacman AI Pathfinding project is designed to use Artificial Intelligence (AI
 
 Here's a glimpse of the game:
 ![image](https://github.com/user-attachments/assets/1de439e5-060e-4b35-995d-266bd544a8f6)
-![image](https://github.com/user-attachments/assets/224b8f5c-8bf5-4da8-aabf-715350f1b33f)
-![image](https://github.com/user-attachments/assets/66a3e4b4-b815-4c3d-811b-d5fd3344c422)
-![image](https://github.com/user-attachments/assets/0ce3eb48-d873-4a07-85d8-95d6680e40ba)
-![image](https://github.com/user-attachments/assets/7b0a97e4-9afa-4183-9f47-03379c80b70d)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/66a3e4b4-b815-4c3d-811b-d5fd3344c422" alt="d1" width="49%">
+  <img src="https://github.com/user-attachments/assets/66a3e4b4-b815-4c3d-811b-d5fd3344c422" alt="d2" width="49%">
+</div>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/0ce3eb48-d873-4a07-85d8-95d6680e40ba" alt="d1" width="49%">
+  <img src="https://github.com/user-attachments/assets/7b0a97e4-9afa-4183-9f47-03379c80b70d" alt="d2" width="49%">
+</div>
 
 ## Features
 
