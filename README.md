@@ -4,6 +4,13 @@ The Pacman AI Pathfinding project is designed to use Artificial Intelligence (AI
 
 > The game offers a unique twist on the classic Pacman game. Instead of controlling Pacman, players take on the role of a ghost, aiming to eat all Pacmen on the map. The goal is to find and follow the shortest path to capture all Pacmen, providing a fresh and challenging gameplay experience. The shorter the path you find, the higher your score.
 
+## Screenshots
+
+Here's a glimpse of the game:
+![picture1](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/8a18c0ce-83b4-459a-9e8e-47b6d2afac19)
+![picture2](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/be9bba6b-353d-4ae0-811a-4e58af4295f0)
+![picture3](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/b32d3f7b-6c1c-4e8f-9563-77542b765192)
+![picture4](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/d79f6e19-1bd0-4d87-9c00-9a415a4d327e)
 
 
 ## Features
@@ -42,7 +49,6 @@ The Pacman AI Pathfinding project is designed to use Artificial Intelligence (AI
   - Item collection sound effects
   - Ghost movement sounds
   - Button click sounds
-
 
 ## Technologies Used
 - **Unity Engine:** 2D game development engine  
