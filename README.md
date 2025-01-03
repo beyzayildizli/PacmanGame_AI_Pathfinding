@@ -32,11 +32,9 @@ Here's a glimpse of the game:
 - **Script:** `MinPathBetweenTwoLoc.cs`
 - Implements the Breadth-First Search (BFS) algorithm to calculate the shortest path between two points.
 - Avoids obstacles and determines the most efficient route.
-- Assists the player in planning their moves strategically.
 
 - **Script:** `CalculateBestWay.cs`
-- This script calculates the shortest path for the character to collect  all point items on the map using a BFS-based approach.
-- It generates a tree structure  to explore possible paths and selects the optimal route with minimal steps.
+- This script calculates the distance between the pacmans and the ghost and each other with MinPathBetweenTwoLoc.cs, creating a tree structure to explore possible paths and choosing the most suitable route with the least steps.
 
 ### 4. Score Tracking
 - **Script:** `ScoreLists.cs`
